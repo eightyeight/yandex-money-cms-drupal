@@ -319,8 +319,8 @@ msgstr "Это платежная форма на ваш сайт. Позвол�
 msgid "Activate payments via Yandex.Billing"
 msgstr "Включить прием платежей через Платежку"
 
-msgid "Yandex.Billing's identifier"
-msgstr "Идентификатор Платежки"
+msgid "Form ID"
+msgstr "ID формы"
 
 msgid "Yandex.Billing"
 msgstr "Яндекс.Платежка"
